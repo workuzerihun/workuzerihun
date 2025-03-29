@@ -80,15 +80,4 @@ ul {
 ul li {
     margin: 10px 0;
 }
-ul li a {
-    text-decoration: none;
-    color: #0056b3;
-}
-img {
-    display: block;
-    margin: 10px auto;
-    border-radius: 10px;
-    box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
-    max-width: 100%;
-    height: auto;
-}
+ul li p
