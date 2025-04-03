@@ -1,27 +1,27 @@
 
 <!-- index.html -->
 <!DOCTYPE html>
-<html lang="om">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mana Barumsaa Awaash</title>
+    <title>SEGNI WEBSITE</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Mana Barumsaa Awaash</h1>
+        <h1>MY FIRST WEBSITE</h1>
         <nav>
             <a href="index.html">Home</a> |
             <a href="about.html">Waa'ee</a> |
-            <a href="lessons.html">Barnoota</a> |
+            <a href="lessons.html">EDUCATION</a> |
             <a href="downloads.html">Downloads</a> |
-            <a href="contact.html">Qunnamtii</a>
+            <a href="contact.html">CONTACT</a>
         </nav>
     </header>
     <section>
-        <h2>Welcome!</h2>
-        <p>Barnoota Herregaa fi resources adda addaa argachuuf!</p>
+        <h2>Welcome TO MY WEBSITE!</h2>
+        <p>GET TO MATHEMATICS EDUCATION AND RESOURCES !</p>
     </section>
 </body>
 </html>
@@ -32,22 +32,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Waa'ee Kiyya</title>
+    <title>ABOUT ME</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Waa'ee Kiyya</h1>
+        <h1>ABOUT ME</h1>
         <nav>
             <a href="index.html">Home</a> |
-            <a href="lessons.html">Barnoota</a> |
+            <a href="lessons.html">EDUCATION</a> |
             <a href="downloads.html">Downloads</a>
         </nav>
     </header>
     <section>
-        <h2>Waa'ee Kiyya</h2>
+        <h2>ABOUT ME</h2>
         <img src="images/mysuura.jpg" alt="Suuraa Kiyya" width="200">
-        <p>Akkam! Ani barataa IT fi barsiisaa kutaa 1ffaa dha.</p>
+        <p>HELLO I AM IT STUDENT AND MATHEMATICS TEACHER .</p>
         <p>Email: workuzerihun224@gmail.com</p>
         <p>Phone: 096743....</p>
     </section>
