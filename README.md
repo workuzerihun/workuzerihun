@@ -46,7 +46,7 @@
     </header>
     <section>
         <h2>ABOUT ME</h2>
-        <img src=IMG_20250403_225924_508.jpg alt="MY IMAGE" width="200">
+        <img src=IMG_20250403_225924_508.jpg alt="MY IMAGE" width="100">
         <p>HELLO I AM IT STUDENT AND MATHEMATICS TEACHER .</p>
         <p>Email: workuzerihun224@gmail.com</p>
         <p>Phone: 096743....</p>
