@@ -13,7 +13,7 @@
         <h1>MY FIRST WEBSITE</h1>
         <nav>
             <a href="index.html">Home</a> |
-            <a href="about.html">Waa'ee</a> |
+            <a href="about.html">ABOUT</a> |
             <a href="lessons.html">EDUCATION</a> |
             <a href="downloads.html">Downloads</a> |
             <a href="contact.html">CONTACT</a>
@@ -46,7 +46,7 @@
     </header>
     <section>
         <h2>ABOUT ME</h2>
-        <img src="images/mysuura.jpg" alt="Suuraa Kiyya" width="200">
+        <img src="images/mysuura.jpg" alt="MY IMAGE" width="200">
         <p>HELLO I AM IT STUDENT AND MATHEMATICS TEACHER .</p>
         <p>Email: workuzerihun224@gmail.com</p>
         <p>Phone: 096743....</p>
