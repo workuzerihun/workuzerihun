@@ -54,30 +54,3 @@
 </body>
 </html>
 
-<!-- style.css -->
-body {
-    font-family: Arial, sans-serif;
-    background-color: #eef;
-    text-align: center;
-}
-header {
-    background-color: #0056b3;
-    color: white;
-    padding: 15px;
-}
-nav a {
-    color: white;
-    text-decoration: none;
-    padding: 10px;
-}
-section {
-    margin-top: 20px;
-    padding: 20px;
-}
-ul {
-    list-style-type: none;
-}
-ul li {
-    margin: 10px 0;
-}
-ul li p
