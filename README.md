@@ -10,12 +10,7 @@
 </head>
 <body>
     <header>
-        <h1>welcome to zerihun worku website</h1>
-<h1> about zerihun worku</h1>
-<p> I am maths teacher and information technology student</p><h2> photo zerihun worku</h2>
-<img SRC="image/zed.jpg.png" alt=""/>
-<a href="index.html">home</a>
-
+  
         <nav>
             <a href="index.html">Home</a> |
             <a href="about.html">ABOUT</a> |
