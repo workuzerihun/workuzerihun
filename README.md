@@ -15,16 +15,7 @@
             <a href="index.html">Home</a> |
             <a href="about.html">ABOUT</a> |
             <a href="lessons.html">EDUCATION</a> |
-            <a href="downloads.html">Downloads</a> |
-            <a href="contact.html">CONTACT</a>
-        </nav>
-    </header>
-    <section>
-        <h2>Welcome TO MY WEBSITE!</h2>
-        <p>GET TO MATHEMATICS EDUCATION AND RESOURCES !</p>
-    </section>
-</body>
-</html>
+            <a href
 
 <!-- about.html -->
 <!DOCTYPE html>
